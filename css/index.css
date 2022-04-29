@@ -1,0 +1,42 @@
+body{
+    background: darkgray;
+
+}
+header{
+    background: cornflowerblue;
+}
+
+footer{
+    background: cornflowerblue;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+}
+
+
+.div_bouton {
+}
+
+.div{
+    text-align: center;
+
+}
+.h1{
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+.h2{
+    color: darkblue;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.AllignementGauche{
+    text-align: center;
+}

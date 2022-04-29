@@ -1,0 +1,16 @@
+.comp_h1{
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+}
+.comp_h2{
+    color: darkblue;
+    font-style: italic;
+    font-family: cursive;
+}
+.comp_p{
+
+}
+.comp_div{
+    text-align: center;
+}
